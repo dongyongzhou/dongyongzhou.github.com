@@ -1,0 +1,50 @@
+---
+layout: master
+title: DonGYonG
+full_posts: 3
+---
+
+<div class='home-box' id='home-left'>
+  <h2><a href='atom.xml' class='float-right'
+      ><img src='/images/subscribe-icon.gif' alt='Subscribe'/></a
+      >最新博客（<a href='/blog.html'>更多</a>）</h2>
+  
+{% for post in site.posts limit:page.full_posts %}
+  <div class='post'>
+    <span class='date'>{{post.date | date_to_string}}</span>
+    <h1><a href='{{post.url}}'>{{post.title}}</a></h1>
+    <div class='body'>{{post.content}}</div>
+    <a href='{{post.url}}#disqus_thread'>View Comments</a>
+  </div>
+{% endfor %}
+
+</div>
+
+<div class='home-box' id='home-right'>
+  <h2>个人档案</h2>
+  <div class='sidebar'>
+    <div class="sidebar-item">
+      <a href='/about.html'><img
+         src="images/dongyong.jpg" alt="Photo"><br></a>
+      <ul>
+    </div>
+  </div>
+
+  <h2>联系方式</h2>
+  <div class='sidebar'>
+    <div class="sidebar-item">
+    <dl>
+      <dt>邮件：</dt>
+      <dd>dongyongzhou AT gmail.com </dd>
+
+      <dt>微博：</dt>
+      <dd><a href="http://weibo.com/gotgit">http://weibo.com/gotgit</a></dd>
+
+      <dt>公司：</dt>
+      <dd><a href="http://www.ossxp.com/">http://www.ossxp.com</a></dd>
+    </dl>
+
+    </div>
+  </div>
+
+</div>
