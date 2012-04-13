@@ -11,4 +11,4 @@ h2. 关于这个网站
 
 网址是我自2012年开始维护的个人网站，主要用于个人学习以及创作记录。
 
-his site is built using the "Jekyll":http://github.com/mojombo/jekyll library and hosted on "GitHub":http://github.com/. The source code used to create this library is "publicly available on GitHub":http://github.com/mbleigh/mbleigh.github.com as well.
+This site is built using the "Jekyll":http://github.com/mojombo/jekyll library and hosted on "GitHub":http://github.com/.
