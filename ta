@@ -1,0 +1,243 @@
+[33mcommit 6cae1f4f3abb3045b4c288059787852caa002259[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Mon Jul 16 01:43:16 2012 +0800
+
+    change blog3
+
+[33mcommit c701d3364770546002eee83901d77449c53a9e29[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Mon Jul 16 01:41:51 2012 +0800
+
+    change blog2
+
+[33mcommit 13ddd88df6fabfca5235c34109c38badad89558b[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Mon Jul 16 01:34:50 2012 +0800
+
+    change blog
+
+[33mcommit a6bf7cd751905d535307653f67ddcfa6e8dc0a61[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Tue Jun 19 01:26:40 2012 +0800
+
+    add 6 9 2
+
+[33mcommit 6584c87bad7218d678fa1a4eb64c9244ee58725b[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Tue Jun 19 01:22:45 2012 +0800
+
+    add 6 9
+
+[33mcommit 0c94f7a95ca52f25696b044668a3de6862acc6e5[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Wed Jun 6 16:08:19 2012 +0800
+
+    add photo3
+
+[33mcommit 47e8caaf48b27d5cb21f555c42313b95eb380e20[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Wed Jun 6 15:03:40 2012 +0800
+
+    add photo2
+
+[33mcommit b07f1c0c09be0c741cfe0d4f7b08a4b95860394d[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Wed Jun 6 14:24:42 2012 +0800
+
+    add first-experience-of-vegetarian-life3
+
+[33mcommit 73e670e6f8da7f3b42aeac45e59e16e3b8a327fb[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Wed Jun 6 02:20:07 2012 +0800
+
+    add first experience of vegetarian life2
+
+[33mcommit e78e40e2de75190f309e903b5d2142e0fc6c2d17[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Wed Jun 6 02:18:07 2012 +0800
+
+    add first experience of vegetarian life
+
+[33mcommit ba1bdf6964471eef72c2f82f1f96c61b6b3d541f[m
+Merge: 7bbd273 4b468c3
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Fri Jun 1 03:10:44 2012 +0800
+
+    Merge branch 'master' of github.com:dongyongzhou/dongyongzhou.github.com
+
+[33mcommit 7bbd273b4b7b43faa3befab95929ecad4af90c62[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Fri Jun 1 03:10:07 2012 +0800
+
+    add vegetarian
+
+[33mcommit 4b468c39a4213374f5c19b6bd5eda0ec72c0f4cb[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Fri Jun 1 01:53:42 2012 +0800
+
+    Update about.textile
+
+[33mcommit 869a874205c61173690edac7e6e4b73a2f38a161[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Fri Jun 1 01:52:27 2012 +0800
+
+    Update about.textile
+
+[33mcommit af10ae70200a58feb37971860a69a0ca6ec8c444[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Fri Jun 1 01:51:57 2012 +0800
+
+    add  enternity and modify about
+
+[33mcommit 62e6bd77473c770e11410e5f6e2dbcf6ff12fbcf[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Sat May 19 22:40:28 2012 +0800
+
+    add title
+
+[33mcommit 62e2a7e674b097ea74dc4acf870241efdf2a40a9[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Sat May 19 20:46:14 2012 +0800
+
+    change to moretolearm2
+
+[33mcommit 6d01e156de59e720ba54b6e0588ce7fa4c31521d[m
+Merge: b1af246 a90bdca
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Sat May 19 20:43:39 2012 +0800
+
+    Merge branch 'master' of github.com:dongyongzhou/dongyongzhou.github.com
+
+[33mcommit b1af24667edd3e7c226f0df9bb1212b7f721a4ca[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Sat May 19 20:42:48 2012 +0800
+
+    change to moretolearm
+
+[33mcommit a90bdca9ebbb76d34d8ca3afc944672a4cacdc19[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Tue May 1 00:55:33 2012 +0800
+
+    rm 5 1 old format
+
+[33mcommit a35fd319ddf8322f0b0e917deb952abc40e4679a[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Tue May 1 00:53:10 2012 +0800
+
+    change 5 1 format
+
+[33mcommit 1f80ff529598e0242e9a29a9db859e83ae2eb27d[m
+Merge: bfa1aaa 1d605ad
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Tue May 1 00:50:02 2012 +0800
+
+    Merge branch 'master' of github.com:dongyongzhou/dongyongzhou.github.com
+
+[33mcommit bfa1aaa6e9e17a796d69a3998a8620ef51194fbe[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Tue May 1 00:44:08 2012 +0800
+
+    add 5 1
+
+[33mcommit 1d605ad8cdf9590eadc228bff300ff8a2b46b2a2[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Sat Apr 14 22:11:33 2012 +0800
+
+    Add Disqus comment support
+
+[33mcommit f2083ea8551c04fb15304efefd68f34035e84c84[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Sat Apr 14 19:01:35 2012 +0800
+
+    Update index.html
+
+[33mcommit cd6c4488cb69a46b12ebcefefb33632db7ad9d3f[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Sat Apr 14 18:58:27 2012 +0800
+
+    Update index.html
+
+[33mcommit 983770d35b6713f865e9966b4d7ac090bc33663a[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Sat Apr 14 18:56:58 2012 +0800
+
+    Update index.html
+
+[33mcommit 0537cb486ab1bf9706ceb30db84842a4d4cb03e4[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Sat Apr 14 18:52:22 2012 +0800
+
+    change micro blog format
+
+[33mcommit d0f5ed539ed38631734f6d99f3c4f4d438169701[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Fri Apr 13 21:28:30 2012 +0800
+
+    Update about.textile
+
+[33mcommit 7ec4e4ed5d66a02fa94c5eae130f27ab536be8b4[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Fri Apr 13 21:20:58 2012 +0800
+
+    Update _posts/2012-4-11-hello-github.markdown
+
+[33mcommit 76741f3421e8a692a8067528bab458821d0daa53[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Thu Apr 12 17:46:54 2012 +0800
+
+    Add and modify ducument project page
+
+[33mcommit a77e980935b864c4f057bc77e45f1ab55ca93eca[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Wed Apr 11 20:01:36 2012 +0800
+
+    Update _posts/2012-4-11-hello-github.markdown
+
+[33mcommit e2f2339e1514e9d98e56728f947ca39c1a9e1aa7[m
+Merge: fdf93a9 32bfcfd
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Wed Apr 11 18:42:10 2012 +0800
+
+    Merge branch 'master' of github.com:dongyongzhou/dongyongzhou.github.com
+
+[33mcommit fdf93a97623a2fdbcb760c5c58583b35c440c647[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Wed Apr 11 18:40:34 2012 +0800
+
+    modify contact
+
+[33mcommit 32bfcfd853aefad74fd7fe746d793ec6f101c17a[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Wed Apr 11 17:51:34 2012 +0800
+
+    Update CNAME
+
+[33mcommit 5b75881a1e0a241a9e1d32ce50301dd2c25135cc[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Wed Apr 11 16:53:08 2012 +0800
+
+    Update CNAME
+
+[33mcommit 48223024c2613e3e715658876adfd201cb1d4a71[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Wed Apr 11 15:20:42 2012 +0800
+
+    Update CNAME
+
+[33mcommit fe24da9dc06ce5b88d548142fc19933b8cf75ceb[m
+Author: dongyongzhou <dongyongzhou@foxmail.com>
+Date:   Wed Apr 11 15:19:09 2012 +0800
+
+    Update _posts/2012-4-11-hello-github.markdown
+
+[33mcommit f4e776c044ae90cad3cac0784194eb922c680bef[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Wed Apr 11 15:11:26 2012 +0800
+
+    delete useless files
+
+[33mcommit d0c96477a2cac9003ed8e819c3cbb5e894ef56bf[m
+Author: Dongyong Zhou <dongyongzhou@foxmail.com>
+Date:   Wed Apr 11 14:38:44 2012 +0800
+
+    init commit.
